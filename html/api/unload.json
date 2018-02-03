@@ -1,0 +1,12 @@
+{
+    "navigation": "api/navi.json", 
+    "side": [
+        "api/side.json",          
+        "api/side1.json",          
+        "api/side2.json",          
+        "api/side3.json",          
+        "api/side4.json",          
+        "api/side4.json"
+    ],
+    "main": "api/main.json" 
+}
